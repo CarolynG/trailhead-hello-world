@@ -3,4 +3,4 @@ Completing the "Git and Github Basics" Trailhead badge. https://trailhead.salesf
 
 This line was added from the branch myfeaturebranch.
 
-This line was added from new-branch-1.
+This line was added from the branch new-branch-2.
